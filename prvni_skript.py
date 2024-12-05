@@ -1,0 +1,1 @@
+print("to je prvni skript")
